@@ -3,12 +3,16 @@
     "type": "library",
     "description": "This library integrates PhpSpreadsheet using Twig.",
     "keywords": ["excel","phpexcel","spreadsheet","phpspreadsheet","twig","symfony"],
-    "homepage": "https://github.com/MewesK/TwigSpreadsheetBundle",
+    "homepage": "https://github.com/Alexandrump/TwigSpreadsheetBundle",
     "license": "MIT",
     "authors": [
         {
             "name": "Mewes Kochheim",
             "email": "mewes@kochheim.de"
+        },
+        {
+            "name": "Alejandro Martínez",
+            "email": "-"
         },
         {
             "name": "Community Contributors",
