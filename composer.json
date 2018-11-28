@@ -1,5 +1,5 @@
 {
-    "name": "sgad/twig-spreadsheet",
+    "name": "alexandrump/twig-spreadsheet",
     "type": "library",
     "description": "This library integrates PhpSpreadsheet using Twig.",
     "keywords": ["excel","phpexcel","spreadsheet","phpspreadsheet","twig","symfony"],
