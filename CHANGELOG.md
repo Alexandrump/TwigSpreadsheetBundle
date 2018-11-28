@@ -1,9 +1,10 @@
-## 1.0 (library)
+## 1.0 (turned into a library)
  * Removed Symfony Container,Bundle System and EventDispatcher dependency
  * Edited dependencies of composer.json keeping, updating, and adding only required Symfony Components
 
 
-## 1.1
+#(Old changelog kept for historical purposes)
+## 1.1 
 
  * Fixed issue #13 'Incorrect cache directory for images' (technetium)
  * Fixed issue #15 'bug pre_calculate_formulas' (mikysan)
