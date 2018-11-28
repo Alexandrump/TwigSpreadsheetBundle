@@ -5,3 +5,13 @@
 /composer.lock
 /phpunit.coverage.xml
 /phpunit.xml
+
+\.idea/
+
+docker-compose\.yml
+
+docker_shared/ssh/known_hosts
+
+docker_shared/ssh/id_rsa\.pub
+
+docker_shared/ssh/id_rsa
